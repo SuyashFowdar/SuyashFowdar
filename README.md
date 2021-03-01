@@ -12,6 +12,10 @@ A - Angular
 
 Been working on Web Apps and a few Mobile Apps. In mobile, Flutter is my favourite.
 
+### Github Stats
+
+[![Suyash's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishnzzz)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Previous Experience
 
 4 years of Experience.
