@@ -14,7 +14,7 @@ Been working on Web Apps and a few Mobile Apps. In mobile, Flutter is my favouri
 
 ### Github Stats
 
-[![Suyash's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishnzzz)](https://github.com/anuraghazra/github-readme-stats)
+[![Suyash's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishnzzz&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Previous Experience
 
