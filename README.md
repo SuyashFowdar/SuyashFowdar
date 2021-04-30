@@ -5,10 +5,10 @@ Also an algorithm-solving lover!
 
 M - MongoDB\
 E - ExpressJS\
-V - VueJS\
-N - NodeJS\
-R - ReactJS\
-A - Angular
+V - VueJS
+R - ReactJS
+A - Angular\
+N - NodeJS
 
 I have been working on Web Apps and a few Mobile Apps. On mobile, Flutter is my favorite.
 
